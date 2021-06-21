@@ -1,7 +1,7 @@
 # Done's
 
 A mobile application developed with Flutter, Easy Design, for simple users.<br />
-You will find the .apk files in the build\output\apk\release folder.<br />
+you can build it and you will find the .apk files in the build\output\apk\release folder.<br />
 Feel free to use it.
 
 # App Features
